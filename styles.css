@@ -1,0 +1,18 @@
+body {
+    background-color: #f49e47;
+    background-image:
+    url(https://www.google.com/search?q=bedu&rlz=1C1CHBD_esMX921MX921&sxsrf=ALeKk01C6RmQiiA24mUtCTBO8_BKeWOxzw:1623878686142&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj6g_vBi53xAhUSKK0KHcryDLAQ_AUoBHoECAEQBg&biw=804&bih=754#imgrc=yHz7ZNCRcvmQcM);
+    }
+    h1 {
+    color: #46484c;
+    text-align: center;
+    }
+    p {
+    color: #8b8b8bcc;
+    font-family: verdana;
+    font-size: 20px;
+    }
+    button {
+    color: #fff;
+    background-color: #025157;
+    }
